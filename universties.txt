@@ -1,0 +1,74 @@
+     University of Nairobi
+     Moi University
+     Kenyatta University
+     Egerton University
+     Jomo Kenyatta University of
+     Maseno University
+     Chuka University
+     Dedan Kimathi University of
+     Kisii University
+	Masinde Muliro University of Science and Technology
+	Pwani University
+	Technical University of Kenya
+	Technical University of Mombasa
+	Maasai Mara University
+	Meru University of Science and
+	Multimedia University of Kenya
+	South Eastern Kenya University
+	Jaramogi Oginga Odinga University of Science and Technology
+	Laikipia University
+	University of Kabianga
+	Karatina University
+	University of Eldoret
+	Kibabii University
+	Kirinyaga University
+	Machakos University
+	Murang’a University of Technology
+	Rongo University
+	Taita Taveta University
+	The Co-operative University of Kenya
+	University of Embu
+	Garissa University
+	Alupe University College
+	Kaimosi Friends University College
+	Tom Mboya University College
+	Turkana University College
+	Bomet University College
+	Tharaka University College
+	University of Eastern Africa, Baraton
+	Catholic University of Eastern Africa
+	Daystar University
+	Scott Christian University
+	United States International University
+	Africa Nazarene University
+	Kenya Methodist University
+	St. Paul’s University
+	Pan Africa Christian University
+	Kabarak University
+	Strathmore University
+	Africa International University
+	Kenya Highlands Evangelical
+	Mount Kenya University
+	Great Lakes University of Kisumu
+	Adventist University
+	KCA University
+	KAG - EAST University
+	Tangaza University College
+	Marist International University College
+	Regina Pacis University College
+	Uzima University College
+	Hekima University College
+	Aga Khan University
+	Kiriri Women’s University of Science and Technolog
+     GRETSA University
+	Presbyterian University of East Africa
+	The East African University
+	Management University of Africa
+	Pioneer International University
+	Riara University
+	UMMA University
+	International Leadership University
+	Zetech University
+	Lukenya University
+	RAF International University
+	AMREF International Universi
